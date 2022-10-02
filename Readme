@@ -1,0 +1,5 @@
+This project is about to enter a student information and also put Email and field requirement validation.It save Student details into student table..
+I have created this project in Visual Studio 2022 using raxor view and mvc5
+I have created a model class with the name of Student.
+Controller is used to passed view data to the model class student
+We also use Rotativa library to export data to pdf..Print Details to PDF link is use to export view data/
